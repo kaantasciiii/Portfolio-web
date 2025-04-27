@@ -45,18 +45,6 @@ A clean, responsive portfolio website built with HTML, CSS, and JavaScript.
    - Implemented a shopping cart functionality
    - Used CSS animations for enhanced user experience
 
-## Setup and Installation
-
-1. Clone this repository:
-```
-git clone https://github.com/yourusername/portfolio.git
-```
-
-2. Navigate to the project directory:
-```
-cd portfolio
-```
-
 3. Open the index.html file in your browser or use a local development server.
 
 ## Deployment
