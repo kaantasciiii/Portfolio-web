@@ -61,7 +61,6 @@ cd portfolio
 
 ## Deployment
 
-This portfolio is deployed using GitHub Pages. You can view it live at: https://yourusername.github.io/portfolio/
 
 ## Future Enhancements
 
